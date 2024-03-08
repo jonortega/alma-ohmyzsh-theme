@@ -6,6 +6,18 @@ Based on the theme made by [RougarouTheme/rougarou-zsh](https://github.com/Rouga
 
 ## Screenshots
 
+<p align="center">
+  <img alt="alma-theme" width="400" src="./images/alma-theme.png">
+</p>
+
+<p align="center">
+  <img alt="alma-theme-git" width="400" src="./images/alma-git.png">
+</p>
+
+<p align="center">
+  <img alt="alma-theme-error" width="400" src="./images/alma-error.png">
+</p>
+
 ## Install
 
 1. Install a [Nerd Font](https://www.nerdfonts.com/)! The theme uses Nerd Font Icons.
