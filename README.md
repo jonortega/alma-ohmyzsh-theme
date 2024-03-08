@@ -14,17 +14,17 @@ I wanted to use an agnoster-like theme, but I couldn't find one that fitted to m
 
 ### Main look
 <p align="center">
-  <img alt="alma-theme" width="400" src="./images/alma-theme.png">
+  <img alt="alma-theme" width="500" src="./images/alma-theme.png">
 </p>
 
 ### Shows git status
 <p align="center">
-  <img alt="alma-theme-git" width="400" src="./images/alma-git.png">
+  <img alt="alma-theme-git" width="500" src="./images/alma-git.png">
 </p>
 
 ### Alert if the previous command fails
 <p align="center">
-  <img alt="alma-theme-error" width="400" src="./images/alma-error.png">
+  <img alt="alma-theme-error" width="500" src="./images/alma-error.png">
 </p>
 
 ## Install
